@@ -1,0 +1,31 @@
+.galery-body {
+    background-color: #FFF5FD;
+}
+
+.galery-photos {
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.border-nails {
+    /*border: 1px solid black;*/
+    border-radius: 10px;
+}
+
+.link-serv {
+    pointer-events: none;
+}
+
+.alinha-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
